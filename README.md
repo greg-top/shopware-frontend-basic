@@ -1,7 +1,7 @@
 # shopware-frontend-basic
 This repo is for Shopware Front-End Basic training.  <br>
 
-#Notes Structure:
+## Notes Structure:
 1. First steps
 2. Getting to know Shopware:
     * Shopware File System
@@ -12,7 +12,8 @@ This repo is for Shopware Front-End Basic training.  <br>
 5. Misc
 6. Publishing your own theme
 
-#All notes can be found in /notes
+## All notes can be found in /notes
+## Notes are accurate for Shopware version 5.5.6 
 
 #Resources
 developers guide: https://developers.shopware.com/
