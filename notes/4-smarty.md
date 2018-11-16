@@ -20,9 +20,11 @@
           ...  
 </pre>
 
+# How to debug template hints in Shopware
+* use FroshProfiler plugin: https://github.com/FriendsOfShopware/FroshProfiler
+
 # SMARTY resources
 * official page: https://smarty.net <br>
 don't use **append** or **prepand** commands in Shopware development. <br>
 Use Instead **{$smarty.block.parent}** command
-# How to debug template hints in Shopware
-* use FroshProfiler plugin: https://github.com/FriendsOfShopware/FroshProfiler
+* Shopware SMARTY tutorial: https://developers.shopware.com/designers-guide/smarty/
