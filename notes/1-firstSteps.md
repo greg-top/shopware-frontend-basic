@@ -16,7 +16,7 @@ Configuration > Theme manager > settings button:
 - file configuration <br>
 #file: /config.php <br>
 <pre>
-<?php return [
+< ?php return [
   'db' => 
   [
     'host' => 'localhost',
@@ -44,6 +44,7 @@ Configuration > Theme manager > settings button:
     ]
 ];
 </pre>
+<p>Complete list of the options with default configuration: #engine/Shopware/Configs/Default.php</p>
 example configuration settings: https://developers.shopware.com/developers-guide/shopware-config/#example-development-config
 
 # IDE configuration (PHPStorm)
