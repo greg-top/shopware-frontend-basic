@@ -3,18 +3,18 @@
 - github - https://github.com/shopware/shopware
 
 # Configuring Shopware for Development
-- set cache configuration <br><br>
+- set cache configuration <br>
 Configuration > Cache/Performance:
     - set development mode (in **Start** tab)
-    - deactive HTTP cache (in **Settings** tab)
-- set configuration for theme development <br><br>
+    - deactive HTTP cache (in **Settings** tab)<br><br>
+- set configuration for theme development 
 Configuration > Theme manager > settings button:
     - disable compression of js, CSS
     - enable CSS source mapping
     - set 'Disable compiler caching' to yes
     - enable force snippet reload
-- file configuration <br><br>
-file: /config.php <br>
+- file configuration <br>
+#file: /config.php <br>
 <pre>
 <?php return [
   'db' => 
